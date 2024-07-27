@@ -31,7 +31,7 @@ def stock_picker (stocks)
   end
 }
 
-puts result
+return result
 end
 
-stock_picker (stocks_array)
+puts stock_picker (stocks_array)
